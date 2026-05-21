@@ -1,78 +1,77 @@
-# Week 9 — Speed & Accuracy
-**Jul 14 – Jul 20, 2026**
+# Week 9 — Taper & Competition Prep
+**July 27 – August 2, 2026**
 
-> *Goal: Build competition speed. Solve faster, make fewer errors, handle pressure.*
+> *Goal: Taper your training, sharpen your edge, and arrive at competition day in peak form.*
+
+---
+
+## ⚠️ Key Principle: LESS IS MORE
+
+This week is about **maintenance, not learning**. Do not start new topics. Focus on:
+- Reviewing what you know
+- Building confidence
+- Resting properly
 
 ---
 
 ## 🎯 Objectives
 
-1. Finish Green Book through problem 189
-2. Speed drills on easier problems
-3. Rework all incorrectly solved problems from weeks 1–8
-4. Mock Test #3
+1. Light review only — **no new material**
+2. Take your **final mock test** (full simulation)
+3. Review all notes and mistakes
+4. Rest and mental preparation
 
 ---
 
-## 📖 Math — Green Book
+## 📝 Light Review
 
-### Target: Problems 169–189 (3 per day)
-These are the hardest problems in the book. Strategies:
-- Try each for 10 min. If no progress, read just the first hint.
-- Focus on understanding the *approach* more than the final answer.
-- Mark problems you couldn't solve for revisit in Week 10.
+- [ ] Review all personal study notes
+- [ ] Review the entire mistakes log in PROGRESS.md
+- [ ] Flip through Green Book solutions for key patterns
+- [ ] Skim USACO Gold Math and DP module summaries
+- [ ] Quick review of CSES solution approaches for tricky problems
 
----
+## ⚡ Confidence Drills
 
-## ⚡ Speed Drills
-
-### Math Speed Drill (2x this week)
-- Pick 5 previously-solved easy Green Book problems
-- Solve all 5 in 30 minutes
-- Track your speed improvement
-
-### Coding Speed Drill (2x this week)
-- Pick 5 CF problems rated 800–1200
-- Solve all 5 in 45 minutes
-- Focus on clean code, no debugging
+- [ ] Rapid-fire: solve 20 previously solved problems for speed
+- [ ] Mix problems from all sources (Green Book + CSES + USACO)
+- [ ] Target time: 5–10 min per problem
 
 ---
 
-## 🔄 Rework Session
+## 📋 Final Mock Test
 
-Go through your mistakes log in PROGRESS.md:
-- Re-attempt every incorrectly solved problem from weeks 1–8
-- Can you solve them now without help?
-- Update the mistakes log with current status
-
----
-
-## 💻 CF Problems: 10 mixed (prioritize weak tags)
+- [ ] **Full mock test** — 12 problems, 3-hour time limit, exact competition conditions
+- [ ] Simulate everything: no breaks, no phone, no external resources
+- [ ] Post-test analysis: final calibration
+- [ ] Log results in PROGRESS.md
 
 ---
 
-## 🧪 MOCK TEST #3
+## 🏁 Competition Prep
 
-Record in `mock-tests/mock-03.md`. You should see clear improvement by now.
+- [ ] Prepare equipment (laptop, charger, stable internet)
+- [ ] Set up your coding environment
+- [ ] Review competition rules and format
+- [ ] Get adequate sleep (2 nights before matters most)
+- [ ] Light exercise and healthy meals
+- [ ] **Stay calm and trust your preparation**
+
+---
+
+## 🎯 COMPETITION DAY
+
+> You've put in 8 weeks of structured preparation across three focused resources.
+> You've solved ~104 Green Book problems, completed 46 USACO modules, and solved ~145 CSES problems.
+> You are ready. Go crush it! 🏆
 
 ---
 
 ## ✅ End-of-Week Checklist
 
-- [ ] Green Book problems 169–189 completed
-- [ ] 10 CF mixed problems solved
-- [ ] 2 math speed drills completed
-- [ ] 2 coding speed drills completed
-- [ ] All past mistakes reworked
-- [ ] **Mock Test #3 completed and analyzed**
-- [ ] 1 CF Div 1+2 contest participated
-- [ ] PROGRESS.md updated
-
----
-
-## 🏁 End of Phase 3 Review
-
-Write a Phase 3 summary in `notes/phase-3-review.md`:
-- Mock test score progression (#1 → #2 → #3)
-- Remaining weak areas
-- Confidence level for the competition
+- [ ] All notes and mistakes reviewed
+- [ ] Final mock test completed
+- [ ] Confidence drills done
+- [ ] Logistics prepared
+- [ ] Well rested
+- [ ] 🎯 **COMPETED IN QUANTFEST 2026!**

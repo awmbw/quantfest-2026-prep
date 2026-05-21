@@ -1,78 +1,95 @@
-# Week 7 — Integration Week 1 (First Mock Test!)
-**Jun 30 – Jul 6, 2026**
+# Week 7 — CSES Math Finish + Counting + Green Book Ch.7 + Mock Test 1
+**July 13 – July 19, 2026**
 
-> *Goal: Start integrating all skills with mixed practice and your first simulated competition.*
+> *Goal: Finish CSES Math & Counting, complete Green Book algorithms chapter, and take your first mock test.*
 
 ---
 
 ## 🎯 Objectives
 
-1. Mixed Green Book review across all chapters (problems 127–147)
-2. Complete DP modules 8–9
-3. Take your **first full mock test** under competition conditions
-4. Begin building speed and accuracy
+1. Finish all remaining CSES Mathematics problems
+2. Complete all CSES Counting Problems
+3. Complete CSES Additional math-related problems
+4. Complete Green Book Chapter 7 (Algorithms)
+5. Take your **first mock test**
 
 ---
 
-## 📖 Math — Green Book
+## 🧩 CSES — Mathematics (Remaining 17)
 
-### Target: Problems 127–147 (3 per day)
-**Mixed Review — All Chapters**
+- [ ] [Fibonacci Numbers](https://cses.fi/problemset/task/1722)
+- [ ] [Throwing Dice](https://cses.fi/problemset/task/1096)
+- [ ] [Graph Paths I](https://cses.fi/problemset/task/1723)
+- [ ] [Graph Paths II](https://cses.fi/problemset/task/1724)
+- [ ] [System of Linear Equations](https://cses.fi/problemset/task/3154)
+- [ ] [Sum of Four Squares](https://cses.fi/problemset/task/3355)
+- [ ] [Triangle Number Sums](https://cses.fi/problemset/task/3406)
+- [ ] [Dice Probability](https://cses.fi/problemset/task/1725)
+- [ ] [Moving Robots](https://cses.fi/problemset/task/1726)
+- [ ] [Candy Lottery](https://cses.fi/problemset/task/1727)
+- [ ] [Inversion Probability](https://cses.fi/problemset/task/1728)
+- [ ] [Stick Game](https://cses.fi/problemset/task/1729)
+- [ ] [Nim Game I](https://cses.fi/problemset/task/1730)
+- [ ] [Nim Game II](https://cses.fi/problemset/task/1098)
+- [ ] [Stair Game](https://cses.fi/problemset/task/1099)
+- [ ] [Grundy's Game](https://cses.fi/problemset/task/2207)
+- [ ] [Another Game](https://cses.fi/problemset/task/2208)
 
-Practice **problem identification** — quickly recognizing which technique to apply.
+## 🧩 CSES — Counting Problems (All 18)
 
-| Day | Problems | Strategy |
-|-----|----------|----------|
-| Mon | 127–129 | Cold solve — no peeking at chapter |
-| Tue | 130–132 | Time yourself: 15 min max per problem |
-| Wed | 133–135 | Focus on clean, rigorous solutions |
-| Thu | 136–138 | Review weak areas from past weeks |
-| Fri | 139–141 | Speed round: try 10 min per problem |
-| Sat | 142–144 | Pre-mock warm-up |
-| Sun | 145–147 | **MOCK TEST DAY** |
+- [ ] [Filled Subgrid Count I](https://cses.fi/problemset/task/3413)
+- [ ] [Filled Subgrid Count II](https://cses.fi/problemset/task/3414)
+- [ ] [All Letter Subgrid Count I](https://cses.fi/problemset/task/3415)
+- [ ] [All Letter Subgrid Count II](https://cses.fi/problemset/task/3416)
+- [ ] [Border Subgrid Count I](https://cses.fi/problemset/task/3417)
+- [ ] [Border Subgrid Count II](https://cses.fi/problemset/task/3418)
+- [ ] [Raab Game II](https://cses.fi/problemset/task/3400)
+- [ ] [Empty String](https://cses.fi/problemset/task/1080)
+- [ ] [Permutation Inversions](https://cses.fi/problemset/task/2229)
+- [ ] [Counting Bishops](https://cses.fi/problemset/task/2176)
+- [ ] [Counting Sequences](https://cses.fi/problemset/task/2228)
+- [ ] [Grid Paths II](https://cses.fi/problemset/task/1078)
+- [ ] [Counting Permutations](https://cses.fi/problemset/task/1075)
+- [ ] [Grid Completion](https://cses.fi/problemset/task/2429)
+- [ ] [Counting Reorders](https://cses.fi/problemset/task/2421)
+- [ ] [Tournament Graph Distribution](https://cses.fi/problemset/task/3232)
+- [ ] [Collecting Numbers Distribution](https://cses.fi/problemset/task/3157)
+- [ ] [Functional Graph Distribution](https://cses.fi/problemset/task/2415)
+
+## 🧩 CSES — Additional Math-Related Problems
+
+- [ ] [Multiplication Table](https://cses.fi/problemset/task/2422)
+- [ ] [Counting LCM Arrays](https://cses.fi/problemset/task/3169)
+- [ ] [Square Subsets](https://cses.fi/problemset/task/3193)
+- [ ] [Writing Numbers](https://cses.fi/problemset/task/1086)
+- [ ] [K Subset Sums I](https://cses.fi/problemset/task/3108)
+- [ ] [K Subset Sums II](https://cses.fi/problemset/task/3109)
+- [ ] [GCD Subsets](https://cses.fi/problemset/task/3191) *(listed as Maximum Xor Subset on CSES — use GCD Subsets from Additional II)*
+- [ ] [School Excursion](https://cses.fi/problemset/task/1540)
 
 ---
 
-## 🧪 MOCK TEST #1
+## 📖 Green Book — Chapter 7: Algorithms and Numerical Methods
 
-### Setup
-Simulate the Quantfest prelims:
-- **Format:** 12 problems (5 math + 7 coding)
-- **Time:** 3 hours, strict
-- **No external help**
-
-### How to Construct Your Mock
-1. Pick 5 unsolved math problems from the Green Book
-2. Pick 7 CF coding problems:
-   - 2 × 800–1200 rated (warm-up)
-   - 3 × 1200–1600 rated (core)
-   - 2 × 1600–2000 rated (hard)
-   - Mix probabilities, combinatorics, and DP tags
-
-### After the Mock
-- Score yourself honestly
-- Record time per problem
-- Update `mock-tests/mock-01.md` with results
+- [ ] **7.1 Algorithms:** Number swap, Unique elements, Horner's algorithm, Moving average, Sorting algorithm, Random permutation, Search algorithm, Fibonacci numbers, Maximum contiguous subarray
+- [ ] **7.2 The Power of Two:** Power of 2?, Multiplication by 7, Probability simulation, Poisonous wine
 
 ---
 
-## 💻 Coding
+## 📋 Mock Test 1
 
-### YouKn0wWho Academy: DP Modules 8–9
-### CF Problems: 5 mixed-tag (1400–1800 rated)
-
----
-
-## 🏁 Codeforces Contest
-- **1 Codeforces Div 1+2** contest. Target: A–C, attempt D.
+- [ ] **Full mock test** — 12 problems, 3-hour time limit, no external resources
+- [ ] Post-test analysis: identify weak areas
+- [ ] Log mistakes in PROGRESS.md
 
 ---
 
 ## ✅ End-of-Week Checklist
 
-- [ ] Green Book problems 127–147 completed
-- [ ] DP Modules 8–9 in progress
-- [ ] 5 CF mixed problems solved
-- [ ] **Mock Test #1 completed and analyzed**
-- [ ] 1 CF contest participated
+- [ ] All 37 CSES Mathematics problems solved
+- [ ] All 18 CSES Counting problems solved
+- [ ] 8 CSES Additional math problems solved
+- [ ] 13 Green Book problems attempted (Ch.7 complete)
+- [ ] Green Book Chapter 7 fully completed
+- [ ] Mock test 1 completed and analyzed
 - [ ] PROGRESS.md updated

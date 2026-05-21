@@ -1,94 +1,62 @@
-# Week 5 — Advanced Probability & Game Theory
-**Jun 16 – Jun 22, 2026**
+# Week 5 — Gold Math + Gold DP Start + CSES DP Finish + Green Book Ch.4 Finish
+**June 29 – July 5, 2026**
 
-> *Goal: Tackle advanced probability topics and add game theory to your toolkit.*
+> *Goal: Enter Gold-level topics (Math & DP), finish all CSES DP, and complete Green Book probability theory.*
 
 ---
 
 ## 🎯 Objectives
 
-1. Advance through Green Book stochastic processes chapter
-2. Complete the Game Theory module (crucial for Quantfest)
-3. Push DP modules further (4–5)
-4. Increase CF problem difficulty to 1400–1600
+1. Complete all USACO **Gold Math** modules (3)
+2. Start USACO **Gold DP** modules (first 3)
+3. Finish all remaining CSES DP problems
+4. Finish Green Book Chapter 4 (sections 4.4–4.6)
 
 ---
 
-## 📖 Math — Green Book
+## 💻 USACO Guide — Gold Math (3 Modules)
 
-### Target: Problems 85–105 (3 per day)
-**Chapter 4: Stochastic Processes & Advanced Topics**
+- [ ] [Divisibility](https://usaco.guide/gold/divisibility)
+- [ ] [Modular Arithmetic](https://usaco.guide/gold/modular)
+- [ ] [Combinatorics](https://usaco.guide/gold/combo)
 
-Key concepts:
-- **Random walks** (1D and 2D)
-- **Gambler's ruin problem**
-- **Markov chains** — transition matrices, stationary distributions
-- **Martingale stopping theorem** (intuitive)
-- **Brownian motion** (conceptual understanding only)
-- **Order statistics**
+## 💻 USACO Guide — Gold DP Start (3 Modules)
 
-### Daily Breakdown
-
-| Day | Problems | Focus |
-|-----|----------|-------|
-| Mon (Jun 16) | 85–87 | Random walks |
-| Tue (Jun 17) | 88–90 | Gambler's ruin |
-| Wed (Jun 18) | 91–93 | Markov chains |
-| Thu (Jun 19) | 94–96 | Martingales |
-| Fri (Jun 20) | 97–99 | Order statistics |
-| Sat (Jun 21) | 100–102 | Mixed advanced problems |
-| Sun (Jun 22) | 103–105 | Review + catch-up |
+- [ ] [Introduction to DP](https://usaco.guide/gold/intro-dp)
+- [ ] [Knapsack DP](https://usaco.guide/gold/knapsack)
+- [ ] [Paths on Grids](https://usaco.guide/gold/paths-grids)
 
 ---
 
-## 💻 Coding
+## 🧩 CSES — Dynamic Programming (Remaining 11)
 
-### YouKn0wWho Academy: Game Theory Module (472) + DP 4–5
-- **Game Theory Module 472** is specifically listed as relevant in the original plan
-- Concepts to master:
-  - Sprague-Grundy theorem
-  - Nim game and variants
-  - Game DP
-- **DP Modules 4–5**: Continue sequential progress
-
-### CF Problems This Week
-- Solve **5 problems** from [probabilities tag (1400–1600)](https://codeforces.com/problemset?order=BY_RATING_ASC&tags=probabilities%2C-1800)
-- These will be significantly harder — budget 30–45 min each
-
----
-
-## 🧩 Puzzles
-
-### Target: 3 PuzzledQuant Problems
-- Try [puzzledquant.com](https://www.puzzledquant.com/) for quant-specific puzzles
-- Focus on game theory and strategic reasoning puzzles
-- These simulate the kind of thinking needed in Quantfest
+- [ ] [Minimal Grid Path](https://cses.fi/problemset/task/3359)
+- [ ] [Money Sums](https://cses.fi/problemset/task/1745)
+- [ ] [Removal Game](https://cses.fi/problemset/task/1097)
+- [ ] [Two Sets II](https://cses.fi/problemset/task/1093)
+- [ ] [Mountain Range](https://cses.fi/problemset/task/3314)
+- [ ] [Increasing Subsequence](https://cses.fi/problemset/task/1145)
+- [ ] [Projects](https://cses.fi/problemset/task/1140)
+- [ ] [Elevator Rides](https://cses.fi/problemset/task/1653)
+- [ ] [Counting Tilings](https://cses.fi/problemset/task/2181)
+- [ ] [Counting Numbers](https://cses.fi/problemset/task/2220)
+- [ ] [Increasing Subsequence II](https://cses.fi/problemset/task/1748)
 
 ---
 
-## 📝 Notes Focus
+## 📖 Green Book — Chapter 4: Probability Theory (Part 3)
 
-Create `notes/game-theory-notes.md`:
-- Sprague-Grundy theorem explained simply
-- Common game types and their solutions
-- How to identify game theory problems quickly
-
----
-
-## 🏁 Codeforces Contest
-
-- **1 Codeforces Div 1+2** contest
-- After contest, analyze: how fast am I on A–B? Where do I lose time?
+- [ ] **4.4 Discrete and Continuous Distributions:** Meeting probability, Probability of triangle, Property of Poisson process, Moments of normal distribution
+- [ ] **4.5 Expected Value, Variance & Covariance:** Connecting noodles, Optimal hedge ratio, Dice game, Card game, Sum of random variables, Coupon collection, Joint default probability
+- [ ] **4.6 Order Statistics:** Expected value of max and min, Correlation of max and min, Random ants
 
 ---
 
 ## ✅ End-of-Week Checklist
 
-- [ ] Green Book problems 85–105 completed
-- [ ] Game Theory Module 472 completed
-- [ ] YouKn0wWho DP Modules 4–5 in progress
-- [ ] 5 CF probability problems (1400–1600) solved
-- [ ] 3 PuzzledQuant problems solved
-- [ ] Game theory notes created
-- [ ] 1 CF Div 1+2 contest participated
+- [ ] 3 USACO Gold Math modules completed
+- [ ] 3 USACO Gold DP modules completed
+- [ ] All 23 CSES DP problems solved
+- [ ] 14 Green Book problems attempted (4.4 + 4.5 + 4.6)
+- [ ] Green Book Chapter 4 fully completed
 - [ ] PROGRESS.md updated

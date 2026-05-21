@@ -1,43 +1,35 @@
-# 🔗 Curated Problem Sets
+# 🔗 Problem Sets
 
-## By Topic
+## Core Problem Sets (Required)
 
-### Probability
-| Source | Problems | Difficulty | Link |
-|--------|----------|-----------|------|
-| Codeforces "probabilities" tag | 33 (≤1800) | Mixed | [Link](https://codeforces.com/problemset?order=BY_RATING_ASC&tags=probabilities%2C-1800) |
-| Green Book Ch. 2 | ~40 | Medium | See book |
-| Brainstellar — Probability | Many | Easy–Hard | [Link](https://brainstellar.com/) |
-| QuantQuestions.io | Varies | Medium | [Link](https://quantquestions.io/) |
+### USACO Guide
+- [General](https://usaco.guide/general) — All modules (11)
+- [Bronze](https://usaco.guide/bronze) — All modules (12)
+- [Silver](https://usaco.guide/silver) — All modules (13)
+- [Gold](https://usaco.guide/gold) — Math + DP sections only (10 modules)
 
-### Combinatorics
-| Source | Problems | Difficulty | Link |
-|--------|----------|-----------|------|
-| Codeforces "combinatorics" tag | 202 (≤1800) | Mixed | [Link](https://codeforces.com/problemset?order=BY_RATING_ASC&tags=combinatorics%2C-1800) |
-| Green Book Ch. 3 | ~20 | Medium | See book |
-| Cut the Knot | Many | Medium–Hard | [Link](https://www.cut-the-knot.org/) |
+### CSES Problem Set
+- [Introductory Problems](https://cses.fi/problemset/) — 24 problems
+- [Sorting and Searching](https://cses.fi/problemset/) — 35 problems
+- [Dynamic Programming](https://cses.fi/problemset/) — 23 problems
+- [Mathematics](https://cses.fi/problemset/) — 37 problems
+- [Counting Problems](https://cses.fi/problemset/) — 18 problems
+- Additional math-related problems — ~8 problems
 
-### Dynamic Programming
-| Source | Problems | Difficulty | Link |
-|--------|----------|-----------|------|
-| YouKn0wWho DP section | 11 modules (≤1800) | Easy | [Link](https://youkn0wwho.academy/topic-list) |
+---
 
-### Game Theory
-| Source | Problems | Difficulty | Link |
-|--------|----------|-----------|------|
-| YouKn0wWho Module 472 | 1 module | Medium | [Link](https://youkn0wwho.academy/topic-list) |
+## Extra Problem Sets (Optional)
 
-### Expected Value (Coding)
-| Source | Problems | Difficulty | Link |
-|--------|----------|-----------|------|
-| YouKn0wWho Prob & EV | 2 modules (≤2200) | Medium | [Link](https://youkn0wwho.academy/topic-list) |
+These are **not** part of the core plan:
 
-## By Difficulty (Codeforces)
+### Codeforces
+- [Probabilities tag (≤ 1800)](https://codeforces.com/problemset?order=BY_RATING_ASC&tags=probabilities%2C-1800) — 33 problems
+- [Combinatorics tag (≤ 1800)](https://codeforces.com/problemset?order=BY_RATING_ASC&tags=combinatorics%2C-1800) — 202 problems
 
-| Rating Range | Recommended For | Phase |
-|-------------|-----------------|-------|
-| 800–1200 | Warm-up, speed drills | Phase 1 |
-| 1200–1400 | Core practice | Phase 1–2 |
-| 1400–1600 | Intermediate | Phase 2–3 |
-| 1600–1800 | Hard practice | Phase 3–4 |
-| 1800+ | Stretch problems | Phase 4 |
+### Other Platforms
+- [YouKn0wWho Academy Topic List](https://youkn0wwho.academy/topic-list)
+- [Brainstellar](https://brainstellar.com/)
+- [QuantQuestions.io](https://quantquestions.io/)
+- [PuzzledQuant](https://www.puzzledquant.com/)
+- [Cut the Knot](https://www.cut-the-knot.org/)
+- [Jane Street Puzzles](https://www.janestreet.com/puzzles/archive/index.html)

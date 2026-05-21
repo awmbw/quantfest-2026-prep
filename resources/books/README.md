@@ -1,26 +1,33 @@
 # 📖 Book Resources
 
-## Primary Resource
+## Core Resource
 
 ### *A Practical Guide to Quantitative Finance Interviews* — Xinfeng Zhou (Green Book)
-- **Why:** The single most recommended book for quant interview prep. Covers probability, combinatorics, stochastic processes, statistics, and brain teasers.
-- **How to use:** 3 problems/day, ~200 total. Read solutions even for correctly solved problems.
-- **PDF:** Available in the [IICPC resource drive](https://drive.google.com/drive/folders/1-MRQ3_eMxUoG1RngMepdFBX24DTIy4SD?usp=sharing)
 
-## Supplementary Books
+The **primary and only required math resource** for this plan. Target chapters:
 
-Available in the same [Google Drive folder](https://drive.google.com/drive/folders/1-MRQ3_eMxUoG1RngMepdFBX24DTIy4SD?usp=sharing):
+| Chapter | Topic | Problems |
+|---------|-------|----------|
+| Ch. 2 | Brain Teasers | ~36 problems |
+| Ch. 4 | Probability Theory | ~42 problems |
+| Ch. 5 | Stochastic Processes | ~13 problems |
+| Ch. 7 | Algorithms & Numerical Methods | ~13 problems |
+| **Total** | | **~104 problems** |
 
-| Book | Focus Area | Priority |
-|------|-----------|----------|
-| *Heard on the Street* — Timothy Crack | Quant interview problems | Medium |
-| *Fifty Challenging Problems in Probability* — Mosteller | Pure probability | High |
-| *Problems from the Book* — Titu Andreescu | Competition math | Medium |
-| *How to Solve It* — Polya | Problem-solving methodology | Low (read early) |
+### Reading Strategy
 
-## How to Read Effectively
+1. Read the problem statement carefully
+2. Spend 10–15 minutes attempting each problem before checking the solution
+3. Write down the solution approach in your own words in `notes/`
+4. Revisit problems you couldn't solve after 2–3 days
 
-1. **Active reading:** Always attempt problems before reading solutions
-2. **Spaced repetition:** Revisit hard problems after 3–5 days
-3. **Solution journaling:** Write solutions in your own words in `solutions/math/`
-4. **Pattern recognition:** Tag problems by technique in your notes
+---
+
+## Extra Books (Optional)
+
+These are **not** part of the core plan. Use them only if you want additional practice:
+
+- *Heard on the Street* — Timothy Crack
+- *Fifty Challenging Problems in Probability* — Frederick Mosteller
+- *Brainteasers, Game Theory and Quantitative Finance* — Max Li
+- [Full book collection (Google Drive)](https://drive.google.com/drive/folders/1-MRQ3_eMxUoG1RngMepdFBX24DTIy4SD?usp=sharing)

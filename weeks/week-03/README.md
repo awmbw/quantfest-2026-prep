@@ -1,96 +1,70 @@
-# Week 3 — Probability Deepening + DP Introduction
-**Jun 2 – Jun 8, 2026**
+# Week 3 — Silver Part 1 + CSES Sorting Finish + Green Book Ch.4 Start
+**June 15 – June 21, 2026**
 
-> *Goal: Solidify probability skills while opening the DP front for coding.*
+> *Goal: Begin Silver-level algorithms, finish CSES Sorting & Searching, and start probability theory.*
 
 ---
 
 ## 🎯 Objectives
 
-1. Continue advanced probability problems from the Green Book
-2. Begin dynamic programming practice (essential for coding rounds)
-3. Increase CF problem difficulty
-4. Try your first Jane Street puzzle
+1. Complete USACO **Silver** Prefix Sums + Sorting & Searching modules
+2. Finish all CSES Sorting & Searching problems
+3. Begin Green Book Chapter 4 (Probability Theory)
 
 ---
 
-## 📖 Math — Green Book
+## 💻 USACO Guide — Silver Part 1 (7 Modules)
 
-### Target: Problems 43–63 (3 per day)
-**Chapter 2: Probability Theory (Part 2)**
-
-Advanced concepts:
-- **Random variables** — discrete and continuous
-- **Moment generating functions**
-- **Markov chains** (basic)
-- **Martingales** (intuitive understanding)
-- **Coupon collector problem** and variants
-
-### Daily Breakdown
-
-| Day | Problems | Focus |
-|-----|----------|-------|
-| Mon (Jun 2) | 43–45 | Random variables |
-| Tue (Jun 3) | 46–48 | Distributions & moments |
-| Wed (Jun 4) | 49–51 | Markov chain basics |
-| Thu (Jun 5) | 52–54 | Advanced expected value |
-| Fri (Jun 6) | 55–57 | Coupon collector variants |
-| Sat (Jun 7) | 58–60 | Mixed hard problems |
-| Sun (Jun 8) | 61–63 | Review + catch-up |
+- [ ] [Intro to Prefix Sums](https://usaco.guide/silver/prefix-sums)
+- [ ] [More on Prefix Sums](https://usaco.guide/silver/more-prefix-sums)
+- [ ] [Two Pointers](https://usaco.guide/silver/two-pointers)
+- [ ] [Binary Search on Sorted Array](https://usaco.guide/silver/binary-search-sorted-array)
+- [ ] [Binary Search](https://usaco.guide/silver/binary-search)
+- [ ] [Custom Comparators & Coordinate Compression](https://usaco.guide/silver/sorting-custom)
+- [ ] [Greedy Algorithms with Sorting](https://usaco.guide/silver/greedy-sorting)
 
 ---
 
-## 💻 Coding
+## 🧩 CSES — Sorting & Searching (Remaining 24)
 
-### YouKn0wWho Academy: DP Module 1
-- Start with **basic DP** concepts
-- Problems rated ≤ 1800
-- Key patterns to learn:
-  - 1D DP (Fibonacci-style)
-  - Knapsack variants
-  - Grid DP basics
-
-### CF Problems This Week
-- Solve **5 problems** from the [probabilities tag (1200–1400 rated)](https://codeforces.com/problemset?order=BY_RATING_ASC&tags=probabilities%2C-1800)
-- Notice how probability problems in CF require DP thinking
+- [ ] [Collecting Numbers II](https://cses.fi/problemset/task/2217)
+- [ ] [Playlist](https://cses.fi/problemset/task/1141)
+- [ ] [Towers](https://cses.fi/problemset/task/1073)
+- [ ] [Traffic Lights](https://cses.fi/problemset/task/1163)
+- [ ] [Distinct Values Subarrays](https://cses.fi/problemset/task/3420)
+- [ ] [Distinct Values Subsequences](https://cses.fi/problemset/task/3421)
+- [ ] [Josephus Problem I](https://cses.fi/problemset/task/2162)
+- [ ] [Josephus Problem II](https://cses.fi/problemset/task/2163)
+- [ ] [Nested Ranges Check](https://cses.fi/problemset/task/2168)
+- [ ] [Nested Ranges Count](https://cses.fi/problemset/task/2169)
+- [ ] [Room Allocation](https://cses.fi/problemset/task/1164)
+- [ ] [Factory Machines](https://cses.fi/problemset/task/1620)
+- [ ] [Tasks and Deadlines](https://cses.fi/problemset/task/1630)
+- [ ] [Reading Books](https://cses.fi/problemset/task/1631)
+- [ ] [Sum of Three Values](https://cses.fi/problemset/task/1641)
+- [ ] [Sum of Four Values](https://cses.fi/problemset/task/1642)
+- [ ] [Nearest Smaller Values](https://cses.fi/problemset/task/1645)
+- [ ] [Subarray Sums I](https://cses.fi/problemset/task/1660)
+- [ ] [Subarray Sums II](https://cses.fi/problemset/task/1661)
+- [ ] [Subarray Divisibility](https://cses.fi/problemset/task/1662)
+- [ ] [Distinct Values Subarrays II](https://cses.fi/problemset/task/2428)
+- [ ] [Array Division](https://cses.fi/problemset/task/1085)
+- [ ] [Movie Festival II](https://cses.fi/problemset/task/1632)
+- [ ] [Maximum Subarray Sum II](https://cses.fi/problemset/task/1644)
 
 ---
 
-## 🧩 Puzzles
+## 📖 Green Book — Chapter 4: Probability Theory (Part 1)
 
-### Target: 3 Brainstellar Mixed + 1 Jane Street
-- 3 Brainstellar problems (mix of easy/medium)
-- Attempt **1 Jane Street puzzle** from the [archive](https://www.janestreet.com/puzzles/archive/index.html)
-  - These are significantly harder — don't worry if you can't solve it
-  - The goal is exposure to high-quality problem construction
-
----
-
-## 🏁 Codeforces Contest
-
-- Participate in **1 Codeforces Div 2** contest
-- Target: solve A–C within contest time, attempt D
+- [ ] **4.1 Basic Probability Definitions:** Coin toss game, Card game, Drunk passenger, N points on a circle
+- [ ] **4.2 Combinatorial Analysis:** Poker hands, Hopping rabbit, Screwy pirates 2, Chess tournament, Application letters, Birthday problem, 100th digit, Cubic of integer
 
 ---
 
 ## ✅ End-of-Week Checklist
 
-- [ ] Green Book problems 43–63 completed
-- [ ] YouKn0wWho DP Module 1 started (5+ problems)
-- [ ] 5 CF probability problems (1200–1400) solved
-- [ ] 3 Brainstellar problems solved
-- [ ] 1 Jane Street puzzle attempted
-- [ ] 1 CF contest participated
+- [ ] 7 USACO Silver modules completed
+- [ ] All 35 CSES Sorting & Searching problems solved
+- [ ] 12 Green Book problems attempted (4.1 + 4.2)
+- [ ] Notes on prefix sums, binary search, and basic probability
 - [ ] PROGRESS.md updated
-
----
-
-## 🏁 End of Phase 1 Review
-
-**You've completed Phase 1!** Before moving on, reflect:
-- [ ] Am I comfortable with basic probability computations?
-- [ ] Can I set up expected value calculations correctly?
-- [ ] Am I familiar with Green Book problem styles?
-- [ ] What are my top 3 weak areas to focus on?
-
-Write a Phase 1 summary in `notes/phase-1-review.md`.

@@ -1,59 +1,63 @@
-# Week 8 — Integration Week 2
-**Jul 7 – Jul 13, 2026**
+# Week 8 — Integration & Mixed Practice + Mock Test 2
+**July 20 – July 26, 2026**
 
-> *Goal: Push deeper into mixed practice, finish DP modules, and take your second mock test.*
+> *Goal: Consolidate all knowledge, revisit weak areas, and build competition-level speed.*
 
 ---
 
 ## 🎯 Objectives
 
-1. Finish Green Book problems through 168
-2. Complete the final DP modules (10–11)
-3. Take Mock Test #2 and compare against Mock #1
-4. Focus practice on weaknesses identified in Mock #1
+1. Review weak USACO modules and revisit hard problems
+2. Rework failed/skipped CSES problems
+3. Revisit hardest Green Book problems
+4. Speed drills for competition readiness
+5. Take your **second mock test**
 
 ---
 
-## 📖 Math — Green Book
+## 🔄 Review & Rework
 
-### Target: Problems 148–168 (3 per day)
-Continue mixed review across all chapters. Start timing yourself more strictly.
+### USACO Guide Review
+- [ ] Revisit any modules where you struggled
+- [ ] Re-solve problems you got wrong on first attempt
+- [ ] Focus on Gold DP and Math modules
 
-| Day | Problems | Strategy |
-|-----|----------|----------|
-| Mon–Sat | 3/day | 12 min per problem, strict |
-| Sun | Catch-up | Review all mistakes from the week |
+### CSES Rework
+- [ ] Rework all CSES problems you couldn't solve or took too long on
+- [ ] Focus on DP, Math, and Counting sections
+- [ ] Try alternative approaches to previously solved problems
 
----
-
-## 💻 Coding
-
-### YouKn0wWho Academy: DP Modules 10–11 (Final!)
-- Complete all remaining DP modules
-- You should now have a solid DP foundation
-
-### CF Problems: 8 mixed-tag problems (1400–1800)
-- Prioritize tags you struggled with in Mock #1
-- Focus on speed — try to solve 1400-rated problems in under 20 min
+### Green Book Review
+- [ ] Revisit hardest unsolved problems from all chapters
+- [ ] Re-read solutions for problems you found unintuitive
+- [ ] Focus on Ch.4 (Probability) and Ch.5 (Stochastic) weak spots
 
 ---
 
-## 🧪 MOCK TEST #2
+## ⚡ Speed Drills
 
-Same format as Mock #1. Compare:
-- Total score improvement
-- Time per problem improvement  
-- Which problem types improved vs stagnated
+- [ ] Solve 5 easy CSES Introductory problems in 30 min
+- [ ] Solve 5 CSES Sorting problems in 45 min
+- [ ] Solve 5 Green Book brain teasers in 30 min
+- [ ] Practice rapid problem identification (read problem → classify → plan approach)
 
-Record in `mock-tests/mock-02.md`.
+---
+
+## 📋 Mock Test 2
+
+- [ ] **Full mock test** — 12 problems, 3-hour time limit, no external resources
+- [ ] Compare performance with Mock Test 1
+- [ ] Post-test analysis: track improvement and remaining weak areas
+- [ ] Log mistakes in PROGRESS.md
 
 ---
 
 ## ✅ End-of-Week Checklist
 
-- [ ] Green Book problems 148–168 completed
-- [ ] YouKn0wWho DP Modules 10–11 completed 🎉
-- [ ] 8 CF mixed problems solved
-- [ ] **Mock Test #2 completed and analyzed**
-- [ ] 1 CF Div 1+2 contest participated
+- [ ] All identified weak USACO modules reviewed
+- [ ] Failed CSES problems reworked
+- [ ] Green Book hard problems revisited
+- [ ] Speed drills completed
+- [ ] Mock test 2 completed and analyzed
+- [ ] Clear list of remaining weak areas for Week 9
 - [ ] PROGRESS.md updated
