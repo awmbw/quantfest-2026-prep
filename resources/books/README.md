@@ -18,7 +18,7 @@ The **primary and only required math resource** for this plan. Target chapters:
 
 1. Read the problem statement carefully
 2. Spend 10–15 minutes attempting each problem before checking the solution
-3. Write down the solution approach in your own words in `notes/`
+3. Write down the solution approach in your own words in `notes/` or maintain a handwritten notebook for the same
 4. Revisit problems you couldn't solve after 2–3 days
 
 ---

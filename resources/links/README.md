@@ -2,11 +2,11 @@
 
 ## Core Links
 
-| Resource | Link |
-|----------|------|
-| USACO Guide | https://usaco.guide |
-| CSES Problem Set | https://cses.fi/problemset/ |
-| Green Book (buy/find) | Search: "A Practical Guide to Quantitative Finance Interviews" by Xinfeng Zhou |
+| Resource              | Link                               |
+| --------------------- | ---------------------------------- |
+| USACO Guide           | https://usaco.guide                |
+| CSES Problem Set      | https://cses.fi/problemset/        |
+| Green Book (buy/find) | Find in the "Full book collection" |
 
 ---
 

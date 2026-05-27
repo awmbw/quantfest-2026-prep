@@ -9,11 +9,13 @@ Each mock test simulates the Quantfest prelims:
 
 ## Schedule
 
-| Mock | Week | Date | Status |
-|------|------|------|--------|
-| Mock #1 | Week 7 | Jul 6 | ⬜ Not taken |
-| Mock #2 | Week 8 | Jul 13 | ⬜ Not taken |
-| Mock #3 | Week 9 | Jul 20 | ⬜ Not taken |
+These 5 mock tests would be provided by Matrix. However, you are free to create mocks and practice anytime.
+
+| Mock    | Week    | Date   | Status      |
+| ------- | ------- | ------ | ----------- |
+| Mock #1 | Week 7  | Jul 6  | ⬜ Not taken |
+| Mock #2 | Week 8  | Jul 13 | ⬜ Not taken |
+| Mock #3 | Week 9  | Jul 20 | ⬜ Not taken |
 | Mock #4 | Week 10 | Jul 27 | ⬜ Not taken |
 | Mock #5 | Week 11 | Jul 29 | ⬜ Not taken |
 

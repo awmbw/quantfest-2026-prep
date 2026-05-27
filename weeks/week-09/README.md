@@ -1,5 +1,6 @@
 # Week 9 — Taper & Competition Prep
 **July 27 – August 2, 2026**
+Consider this as the week before your actual Quantfest day! This week will be updated when the official Quantfest announcement is done.
 
 > *Goal: Taper your training, sharpen your edge, and arrive at competition day in peak form.*
 

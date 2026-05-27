@@ -120,11 +120,11 @@ quantfest-2026-prep/
 
 ## 🚀 Quick Start
 
-1. **Clone this repo** and start with [Week 1](weeks/week-01/README.md)
+1. **Clone this repo** and start with [Week 1](weeks/week-01/README.md). Obsidian would be a great app to view and interact with this repo. This is just a suggestion and you can use your favorite app!
 2. **Track your progress** in [PROGRESS.md](PROGRESS.md) — check off items daily
 3. **Store solutions** in the `solutions/` directory, organized by source
 4. **Take notes** in `notes/` — especially for tricky concepts you want to revisit
-5. **Do mock tests** starting Week 7 in `mock-tests/`
+5. **Do mock tests** starting Week 7 in `mock-tests/Search: "A Practical Guide to Quantitative Finance Interviews" by Xinfeng Zhou`
 
 ---
 
@@ -150,7 +150,7 @@ These are **not** part of the core plan but may be useful for further practice:
 
 ## 🤝 Contributing
 
-This is a personal prep repository, but feel free to fork it for your own Quantfest preparation! If you find useful resources or have suggestions, open an issue.
+If you find useful resources or have suggestions, open an issue.
 
 ---
 
