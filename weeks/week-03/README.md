@@ -1,11 +1,11 @@
 # Week 3 — Silver Part 1 + CSES Sorting Finish + Green Book Ch.4 Start
-**June 15 – June 21, 2026**
+**July 13 – July 19, 2026**
 
 > *Goal: Begin Silver-level algorithms, finish CSES Sorting & Searching, and start probability theory.*
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. Complete USACO **Silver** Prefix Sums + Sorting & Searching modules
 2. Finish all CSES Sorting & Searching problems
@@ -13,7 +13,7 @@
 
 ---
 
-## 💻 USACO Guide — Silver Part 1 (7 Modules)
+## USACO Guide — Silver Part 1 (7 Modules)
 
 - [ ] [Intro to Prefix Sums](https://usaco.guide/silver/prefix-sums)
 - [ ] [More on Prefix Sums](https://usaco.guide/silver/more-prefix-sums)
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧩 CSES — Sorting & Searching (Remaining 24)
+## CSES — Sorting & Searching (Remaining 24)
 
 - [ ] [Collecting Numbers II](https://cses.fi/problemset/task/2217)
 - [ ] [Playlist](https://cses.fi/problemset/task/1141)
@@ -54,14 +54,14 @@
 
 ---
 
-## 📖 Green Book — Chapter 4: Probability Theory (Part 1)
+## Green Book — Chapter 4: Probability Theory (Part 1)
 
 - [ ] **4.1 Basic Probability Definitions:** Coin toss game, Card game, Drunk passenger, N points on a circle
 - [ ] **4.2 Combinatorial Analysis:** Poker hands, Hopping rabbit, Screwy pirates 2, Chess tournament, Application letters, Birthday problem, 100th digit, Cubic of integer
 
 ---
 
-## ✅ End-of-Week Checklist
+## End-of-Week Checklist
 
 - [ ] 7 USACO Silver modules completed
 - [ ] All 35 CSES Sorting & Searching problems solved

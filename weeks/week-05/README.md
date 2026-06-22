@@ -1,11 +1,11 @@
 # Week 5 — Gold Math + Gold DP Start + CSES DP Finish + Green Book Ch.4 Finish
-**June 29 – July 5, 2026**
+**July 27 – August 2, 2026**
 
 > *Goal: Enter Gold-level topics (Math & DP), finish all CSES DP, and complete Green Book probability theory.*
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. Complete all USACO **Gold Math** modules (3)
 2. Start USACO **Gold DP** modules (first 3)
@@ -14,13 +14,13 @@
 
 ---
 
-## 💻 USACO Guide — Gold Math (3 Modules)
+## USACO Guide — Gold Math (3 Modules)
 
 - [ ] [Divisibility](https://usaco.guide/gold/divisibility)
 - [ ] [Modular Arithmetic](https://usaco.guide/gold/modular)
 - [ ] [Combinatorics](https://usaco.guide/gold/combo)
 
-## 💻 USACO Guide — Gold DP Start (3 Modules)
+## USACO Guide — Gold DP Start (3 Modules)
 
 - [ ] [Introduction to DP](https://usaco.guide/gold/intro-dp)
 - [ ] [Knapsack DP](https://usaco.guide/gold/knapsack)
@@ -28,7 +28,7 @@
 
 ---
 
-## 🧩 CSES — Dynamic Programming (Remaining 11)
+## CSES — Dynamic Programming (Remaining 11)
 
 - [ ] [Minimal Grid Path](https://cses.fi/problemset/task/3359)
 - [ ] [Money Sums](https://cses.fi/problemset/task/1745)
@@ -44,7 +44,7 @@
 
 ---
 
-## 📖 Green Book — Chapter 4: Probability Theory (Part 3)
+## Green Book — Chapter 4: Probability Theory (Part 3)
 
 - [ ] **4.4 Discrete and Continuous Distributions:** Meeting probability, Probability of triangle, Property of Poisson process, Moments of normal distribution
 - [ ] **4.5 Expected Value, Variance & Covariance:** Connecting noodles, Optimal hedge ratio, Dice game, Card game, Sum of random variables, Coupon collection, Joint default probability
@@ -52,7 +52,7 @@
 
 ---
 
-## ✅ End-of-Week Checklist
+## End-of-Week Checklist
 
 - [ ] 3 USACO Gold Math modules completed
 - [ ] 3 USACO Gold DP modules completed

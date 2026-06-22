@@ -1,11 +1,11 @@
 # Week 1 — Foundations: USACO General + Bronze Start
-**June 1 – June 7, 2026**
+**June 29 – July 5, 2026**
 
 > *Goal: Set up your environment, learn competitive programming fundamentals, and begin Green Book math.*
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. Complete all USACO Guide **General** modules
 2. Start USACO **Bronze** (first 3 modules)
@@ -14,9 +14,7 @@
 
 ---
 
-## 💻 USACO Guide — General (All Modules)
-
-Read and complete all practice problems for each module:
+## USACO Guide — General (All Modules)
 
 - [ ] [Using This Guide](https://usaco.guide/general/using-this-guide)
 - [ ] [Intro to Competitive Programming](https://usaco.guide/general/intro-cp)
@@ -30,7 +28,7 @@ Read and complete all practice problems for each module:
 - [ ] [Basic Debugging](https://usaco.guide/general/basic-debugging)
 - [ ] [C++ With the Command Line](https://usaco.guide/general/cpp-command)
 
-## 💻 USACO Guide — Bronze Start
+## USACO Guide — Bronze Start
 
 - [ ] [Time Complexity](https://usaco.guide/bronze/time-comp)
 - [ ] [Intro to Data Structures](https://usaco.guide/bronze/intro-ds)
@@ -38,7 +36,7 @@ Read and complete all practice problems for each module:
 
 ---
 
-## 🧩 CSES — Introductory Problems (First 12)
+## CSES — Introductory Problems (First 12)
 
 - [ ] [Weird Algorithm](https://cses.fi/problemset/task/1068)
 - [ ] [Missing Number](https://cses.fi/problemset/task/1083)
@@ -55,7 +53,7 @@ Read and complete all practice problems for each module:
 
 ---
 
-## 📖 Green Book — Chapter 2: Brain Teasers (Part 1)
+## Green Book — Chapter 2: Brain Teasers (Part 1)
 
 - [ ] **2.1 Problem Simplification:** Screwy pirates, Tiger and sheep
 - [ ] **2.2 Logic Reasoning:** River crossing, Birthday problem, Card game, Burning ropes, Defective ball, Trailing zeros, Horse race, Infinite sequence
@@ -63,7 +61,7 @@ Read and complete all practice problems for each module:
 
 ---
 
-## ✅ End-of-Week Checklist
+## End-of-Week Checklist
 
 - [ ] All 11 USACO General modules completed
 - [ ] 3 USACO Bronze modules completed

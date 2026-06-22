@@ -1,6 +1,6 @@
-# 🔗 Problem Sets
+# Problem Sets
 
-## Core Problem Sets (Required)
+## Core Problem Sets
 
 ### USACO Guide
 - [General](https://usaco.guide/general) — All modules (11)

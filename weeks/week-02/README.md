@@ -1,11 +1,11 @@
 # Week 2 — Bronze Completion + CSES Intro/Sorting + Green Book Ch.2 Finish
-**June 8 – June 14, 2026**
+**July 6 – July 12, 2026**
 
 > *Goal: Complete all Bronze modules, finish CSES Introductory, start Sorting & Searching, and finish Green Book Chapter 2.*
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. Complete all remaining USACO **Bronze** modules
 2. Finish CSES Introductory Problems + start Sorting & Searching
@@ -13,7 +13,7 @@
 
 ---
 
-## 💻 USACO Guide — Bronze (Remaining 9 Modules)
+## USACO Guide — Bronze (Remaining 9 Modules)
 
 - [ ] [Basic Complete Search](https://usaco.guide/bronze/intro-complete)
 - [ ] [Complete Search with Recursion](https://usaco.guide/bronze/complete-rec)
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧩 CSES — Introductory Problems (Remaining 12)
+## CSES — Introductory Problems (Remaining 12)
 
 - [ ] [Gray Code](https://cses.fi/problemset/task/2205)
 - [ ] [Tower of Hanoi](https://cses.fi/problemset/task/2165)
@@ -42,7 +42,7 @@
 - [ ] [String Reorder](https://cses.fi/problemset/task/1743)
 - [ ] [Grid Path Description](https://cses.fi/problemset/task/1625)
 
-## 🧩 CSES — Sorting & Searching (First 11)
+## CSES — Sorting & Searching (First 11)
 
 - [ ] [Distinct Numbers](https://cses.fi/problemset/task/1621)
 - [ ] [Apartments](https://cses.fi/problemset/task/1084)
@@ -58,7 +58,7 @@
 
 ---
 
-## 📖 Green Book — Chapter 2: Brain Teasers (Part 2)
+## Green Book — Chapter 2: Brain Teasers (Part 2)
 
 - [ ] **2.4 Application of Symmetry:** Coin piles, Mislabeled bags, Wise men
 - [ ] **2.5 Series Summation:** Clock pieces, Missing integers, Counterfeit coins I
@@ -69,7 +69,7 @@
 
 ---
 
-## ✅ End-of-Week Checklist
+## End-of-Week Checklist
 
 - [ ] All USACO Bronze modules completed (12/12 total)
 - [ ] 12 remaining CSES Introductory problems solved (24/24 total)

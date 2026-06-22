@@ -1,11 +1,11 @@
 # Week 6 — Gold DP Completion + CSES Math Start + Green Book Ch.5
-**July 6 – July 12, 2026**
+**August 3 – August 9, 2026**
 
 > *Goal: Finish all Gold DP modules, start CSES Mathematics, and complete Green Book stochastic processes.*
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. Complete remaining USACO **Gold DP** modules (4)
 2. Start CSES Mathematics section (first 20 problems)
@@ -13,7 +13,7 @@
 
 ---
 
-## 💻 USACO Guide — Gold DP (Remaining 4 Modules)
+## USACO Guide — Gold DP (Remaining 4 Modules)
 
 - [ ] [Longest Increasing Subsequence](https://usaco.guide/gold/lis)
 - [ ] [Bitmask DP](https://usaco.guide/gold/dp-bitmasks)
@@ -22,7 +22,7 @@
 
 ---
 
-## 🧩 CSES — Mathematics (First 20)
+## CSES — Mathematics (First 20)
 
 - [ ] [Josephus Queries](https://cses.fi/problemset/task/2164)
 - [ ] [Exponentiation](https://cses.fi/problemset/task/1095)
@@ -47,7 +47,7 @@
 
 ---
 
-## 📖 Green Book — Chapter 5: Stochastic Process and Stochastic Calculus
+## Green Book — Chapter 5: Stochastic Process and Stochastic Calculus
 
 - [ ] **5.1 Markov Chain:** Gambler's ruin problem, Dice question, Coin triplets, Color balls
 - [ ] **5.2 Martingale and Random Walk:** Drunk man, Dice game, Ticket line, Coin sequence
@@ -55,7 +55,7 @@
 
 ---
 
-## ✅ End-of-Week Checklist
+## End-of-Week Checklist
 
 - [ ] All 7 USACO Gold DP modules completed (10/10 Gold total)
 - [ ] 20 CSES Mathematics problems solved

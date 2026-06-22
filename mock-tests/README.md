@@ -13,11 +13,11 @@ These 5 mock tests would be provided by Matrix. However, you are free to create 
 
 | Mock    | Week    | Date   | Status      |
 | ------- | ------- | ------ | ----------- |
-| Mock #1 | Week 7  | Jul 6  | ⬜ Not taken |
-| Mock #2 | Week 8  | Jul 13 | ⬜ Not taken |
-| Mock #3 | Week 9  | Jul 20 | ⬜ Not taken |
-| Mock #4 | Week 10 | Jul 27 | ⬜ Not taken |
-| Mock #5 | Week 11 | Jul 29 | ⬜ Not taken |
+| Mock #1 | Week 7  | Aug 3  | ⬜ Not taken |
+| Mock #2 | Week 8  | Aug 10 | ⬜ Not taken |
+| Mock #3 | Week 9  | Aug 17 | ⬜ Not taken |
+| Mock #4 | Week 10 | Aug 24 | ⬜ Not taken |
+| Mock #5 | Week 11 | Aug 26 | ⬜ Not taken |
 
 ## Mock Test Template
 

@@ -1,21 +1,21 @@
 # Week 7 — CSES Math Finish + Counting + Green Book Ch.7 + Mock Test 1
-**July 13 – July 19, 2026**
+**August 10 – August 16, 2026**
 
 > *Goal: Finish CSES Math & Counting, complete Green Book algorithms chapter, and take your first mock test.*
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. Finish all remaining CSES Mathematics problems
 2. Complete all CSES Counting Problems
 3. Complete CSES Additional math-related problems
 4. Complete Green Book Chapter 7 (Algorithms)
-5. Take your **first mock test**
+5. **First mock test**
 
 ---
 
-## 🧩 CSES — Mathematics (Remaining 17)
+## CSES — Mathematics (Remaining 17)
 
 - [ ] [Fibonacci Numbers](https://cses.fi/problemset/task/1722)
 - [ ] [Throwing Dice](https://cses.fi/problemset/task/1096)
@@ -35,7 +35,7 @@
 - [ ] [Grundy's Game](https://cses.fi/problemset/task/2207)
 - [ ] [Another Game](https://cses.fi/problemset/task/2208)
 
-## 🧩 CSES — Counting Problems (All 18)
+## CSES — Counting Problems (All 18)
 
 - [ ] [Filled Subgrid Count I](https://cses.fi/problemset/task/3413)
 - [ ] [Filled Subgrid Count II](https://cses.fi/problemset/task/3414)
@@ -56,7 +56,7 @@
 - [ ] [Collecting Numbers Distribution](https://cses.fi/problemset/task/3157)
 - [ ] [Functional Graph Distribution](https://cses.fi/problemset/task/2415)
 
-## 🧩 CSES — Additional Math-Related Problems
+## CSES — Additional Math-Related Problems
 
 - [ ] [Multiplication Table](https://cses.fi/problemset/task/2422)
 - [ ] [Counting LCM Arrays](https://cses.fi/problemset/task/3169)
@@ -69,17 +69,17 @@
 
 ---
 
-## 📖 Green Book — Chapter 7: Algorithms and Numerical Methods
+## Green Book — Chapter 7: Algorithms and Numerical Methods
 
 - [ ] **7.1 Algorithms:** Number swap, Unique elements, Horner's algorithm, Moving average, Sorting algorithm, Random permutation, Search algorithm, Fibonacci numbers, Maximum contiguous subarray
 - [ ] **7.2 The Power of Two:** Power of 2?, Multiplication by 7, Probability simulation, Poisonous wine
 
 ---
 
-## 📋 Mock Test 1
+## Mock Test 1
 
-- [ ] **Full mock test** — 12 problems, 3-hour time limit, no external resources
-- [ ] Post-test analysis: identify weak areas
+- [ ] **Full mock test** — 12 problems, 3-hour time limit
+- [ ] Test analysis
 - [ ] Log mistakes in PROGRESS.md
 
 ---

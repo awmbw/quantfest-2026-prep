@@ -1,18 +1,18 @@
-# 📖 Book Resources
+# Book Resources
 
 ## Core Resource
 
 ### *A Practical Guide to Quantitative Finance Interviews* — Xinfeng Zhou (Green Book)
 
-The **primary and only required math resource** for this plan. Target chapters:
+The **primary math resource** for this plan. Target chapters:
 
-| Chapter | Topic | Problems |
-|---------|-------|----------|
-| Ch. 2 | Brain Teasers | ~36 problems |
-| Ch. 4 | Probability Theory | ~42 problems |
-| Ch. 5 | Stochastic Processes | ~13 problems |
-| Ch. 7 | Algorithms & Numerical Methods | ~13 problems |
-| **Total** | | **~104 problems** |
+| Chapter   | Topic                          | Problems          |
+| --------- | ------------------------------ | ----------------- |
+| Ch. 2     | Brain Teasers                  | ~36 problems      |
+| Ch. 4     | Probability Theory             | ~42 problems      |
+| Ch. 5     | Stochastic Processes           | ~13 problems      |
+| Ch. 7     | Algorithms & Numerical Methods | ~13 problems      |
+| **Total** |                                | **~104 problems** |
 
 ### Reading Strategy
 
@@ -26,8 +26,4 @@ The **primary and only required math resource** for this plan. Target chapters:
 ## Extra Books (Optional)
 
 These are **not** part of the core plan. Use them only if you want additional practice:
-
-- *Heard on the Street* — Timothy Crack
-- *Fifty Challenging Problems in Probability* — Frederick Mosteller
-- *Brainteasers, Game Theory and Quantitative Finance* — Max Li
 - [Full book collection (Google Drive)](https://drive.google.com/drive/folders/1-MRQ3_eMxUoG1RngMepdFBX24DTIy4SD?usp=sharing)

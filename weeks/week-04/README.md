@@ -1,19 +1,19 @@
 # Week 4 — Silver Part 2 + CSES DP Start + Green Book Ch.4 Continue
-**June 22 – June 28, 2026**
+**July 20 – July 26, 2026**
 
 > *Goal: Complete Silver, start CSES Dynamic Programming, and deep dive into conditional probability.*
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. Complete all remaining USACO **Silver** modules (Graphs + Additional)
 2. Start CSES Dynamic Programming (first 12 problems)
-3. Continue Green Book Chapter 4 (Conditional Probability — the largest section)
+3. Continue Green Book Chapter 4 (Conditional Probability)
 
 ---
 
-## 💻 USACO Guide — Silver Part 2 (6 Modules)
+## USACO Guide — Silver Part 2 (6 Modules)
 
 - [ ] [Priority Queues](https://usaco.guide/silver/priority-queues)
 - [ ] [Graph Traversal](https://usaco.guide/silver/graph-traversal)
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧩 CSES — Dynamic Programming (First 12)
+## CSES — Dynamic Programming (First 12)
 
 - [ ] [Dice Combinations](https://cses.fi/problemset/task/1633)
 - [ ] [Minimizing Coins](https://cses.fi/problemset/task/1634)
@@ -41,7 +41,7 @@
 
 ---
 
-## 📖 Green Book — Chapter 4: Probability Theory (Part 2)
+## Green Book — Chapter 4: Probability Theory (Part 2)
 
 - [ ] **4.3 Conditional Probability and Bayes' formula:**
   - Boys and girls
@@ -63,7 +63,7 @@
 
 ---
 
-## ✅ End-of-Week Checklist
+## End-of-Week Checklist
 
 - [ ] All 13 USACO Silver modules completed
 - [ ] 12 CSES DP problems solved

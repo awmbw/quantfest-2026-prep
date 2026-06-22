@@ -1,10 +1,10 @@
-# 📊 Progress Tracker — Quantfest 2026
+# Progress Tracker — Quantfest 2026
 
-> Update this file daily. Check off completed items. Track your streaks!
+> Update this file daily.
 
 ---
 
-## 🔥 Streak Tracker
+## Streak Tracker
 
 | Metric | Count |
 |--------|-------|
@@ -18,9 +18,9 @@
 
 ---
 
-## 📅 Weekly Progress
+## Weekly Progress
 
-### Week 1 (Jun 1–7) — Foundations: USACO General + Bronze Start + Green Book Ch.2 Start
+### Week 1 (Jun 29–Jul 5) — Foundations: USACO General + Bronze Start + Green Book Ch.2 Start
 - [ ] USACO General: Using This Guide
 - [ ] USACO General: Intro to Competitive Programming
 - [ ] USACO General: Choosing a Language
@@ -40,7 +40,7 @@
 - [ ] Green Book 2.2: River crossing, Birthday problem, Card game, Burning ropes, Defective ball, Trailing zeros, Horse race, Infinite sequence
 - [ ] Green Book 2.3: Box packing, Calendar cubes, Door to offer, Message delivery, Last ball, Light switches, Quant salary
 
-### Week 2 (Jun 8–14) — Bronze Completion + CSES Intro/Sorting + Green Book Ch.2 Finish
+### Week 2 (Jul 6–12) — Bronze Completion + CSES Intro/Sorting + Green Book Ch.2 Finish
 - [ ] USACO Bronze: Basic Complete Search
 - [ ] USACO Bronze: Complete Search with Recursion
 - [ ] USACO Bronze: Intro to Sorting
@@ -59,7 +59,7 @@
 - [ ] Green Book 2.8: Coin split problem, Chocolate bar problem, Race track
 - [ ] Green Book 2.9: Irrational number, Rainbow hats
 
-### Week 3 (Jun 15–21) — Silver Part 1 + CSES Sorting + Green Book Ch.4 Start
+### Week 3 (Jul 13–19) — Silver Part 1 + CSES Sorting + Green Book Ch.4 Start
 - [ ] USACO Silver: Intro to Prefix Sums
 - [ ] USACO Silver: More on Prefix Sums
 - [ ] USACO Silver: Two Pointers
@@ -72,7 +72,7 @@
 - [ ] Green Book 4.1: Coin toss game, Card game, Drunk passenger, N points on a circle
 - [ ] Green Book 4.2: Poker hands, Hopping rabbit, Screwy pirates 2, Chess tournament, Application letters, Birthday problem, 100th digit, Cubic of integer
 
-### Week 4 (Jun 22–28) — Silver Part 2 + CSES DP Start + Green Book Ch.4 Continue
+### Week 4 (Jul 20–26) — Silver Part 2 + CSES DP Start + Green Book Ch.4 Continue
 - [ ] USACO Silver: Priority Queues
 - [ ] USACO Silver: Graph Traversal
 - [ ] USACO Silver: Flood Fill
@@ -85,7 +85,7 @@
 - [ ] Green Book 4.3: Boys and girls, All-girl world?, Unfair coin, Fair probability from an unfair coin, Dart game, Birthday line, Dice order, Monty Hall problem
 - [ ] Green Book 4.3 continued: Amoeba population, Candies in a jar, Coin toss game, Russian roulette series, Aces, Gambler's ruin problem, Basketball scores, Cars on road
 
-### Week 5 (Jun 29–Jul 5) — Gold Math + Gold DP Start + CSES DP Finish + Green Book Ch.4 Finish
+### Week 5 (Jul 27–Aug 2) — Gold Math + Gold DP Start + CSES DP Finish + Green Book Ch.4 Finish
 - [ ] USACO Gold Math: Divisibility
 - [ ] USACO Gold Math: Modular Arithmetic
 - [ ] USACO Gold Math: Combinatorics
@@ -98,7 +98,9 @@
 - [ ] Green Book 4.5: Connecting noodles, Optimal hedge ratio, Dice game, Card game, Sum of random variables, Coupon collection, Joint default probability
 - [ ] Green Book 4.6: Expected value of max and min, Correlation of max and min, Random ants
 
-### Week 6 (Jul 6–12) — Gold DP Completion + CSES Math Start + Green Book Ch.5
+## Advanced topics (prioritize green book from here on if less time)
+
+### Week 6 (Aug 3–9) — Gold DP Completion + CSES Math Start + Green Book Ch.5
 - [ ] USACO Gold DP: Longest Increasing Subsequence
 - [ ] USACO Gold DP: Bitmask DP
 - [ ] USACO Gold DP: Range DP
@@ -109,7 +111,7 @@
 - [ ] Green Book 5.2: Drunk man, Dice game, Ticket line, Coin sequence
 - [ ] Green Book 5.3: DP algorithm, Dice game, World series, Dynamic dice game, Dynamic card game
 
-### Week 7 (Jul 13–19) — CSES Math Finish + Counting + Green Book Ch.7 + Mock Test 1
+### Week 7 (Aug 10–16) — CSES Math Finish + Counting + Green Book Ch.7 + Mock Test 1
 - [ ] CSES Math: Fibonacci Numbers → Another Game (remaining 17)
 - [ ] CSES Counting: Filled Subgrid Count I → Functional Graph Distribution (all 18)
 - [ ] CSES Additional (math): Multiplication Table, Counting LCM Arrays, Square Subsets, Writing Numbers
@@ -119,28 +121,26 @@
 - [ ] **First mock test** (timed, 12 problems, 3 hours)
 - [ ] Analyze mock test weaknesses
 
-### Week 8 (Jul 20–26) — Integration & Mixed Practice + Mock Test 2
+### Week 8 (Aug 17–23) — Integration & Mixed Practice + Mock Test 2
 - [ ] Review weak USACO modules (revisit hard problems)
 - [ ] Rework failed/skipped CSES problems
 - [ ] Green Book: revisit hardest unsolved problems
 - [ ] Speed drills: rapid-fire easy problems from all sources
-- [ ] **Second mock test** (timed, 12 problems, 3 hours)
+- [ ] **Second mock test**
 - [ ] Focus practice on identified weak areas
 
-### Week 9 (Jul 27–Aug 2) — Taper & Competition Prep
-- [ ] Light review only — no new material
-- [ ] **Final mock test** (timed, full simulation)
+### Week 9 (Aug 24–30) — Taper & Competition Prep
+- [ ] Light review
+- [ ] **Final mock test**
 - [ ] Review all personal notes
 - [ ] Review all mistakes log
-- [ ] Rapid-fire: 20 previously solved problems for speed
-- [ ] Rest and mental preparation
-- [ ] 🎯 **COMPETITION DAY**
+- [ ] **COMPETITION DAY**
 
 ---
 
-## 📝 Mistakes Log
+## Mistakes Log
 
-Track recurring mistakes and lessons learned here:
+Track mistakes and lessons learned here:
 
 | Date | Source | Problem | Mistake | Lesson |
 |------|--------|---------|---------|--------|
@@ -148,8 +148,6 @@ Track recurring mistakes and lessons learned here:
 
 ---
 
-## 💡 Key Insights
-
-Document important "aha moments" and techniques:
+## Key Insights
 
 1. *(Add insights as you learn them)*
