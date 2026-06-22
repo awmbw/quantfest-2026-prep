@@ -1,4 +1,4 @@
-# 🧪 Mock Tests
+# Mock Tests
 
 ## Format
 
