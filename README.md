@@ -100,7 +100,7 @@ quantfest-2026-prep/
 2. **Track your progress** in [PROGRESS.md](PROGRESS.md) — check off items daily
 3. **Store solutions** in the `solutions/` directory, organized by source
 4. **Take notes** in `notes/` — especially for concepts you want to revisit
-5. **Do mock tests** starting Week 7 in `mock-tests/Search: "A Practical Guide to Quantitative Finance Interviews" by Xinfeng Zhou`
+5. **Do mock tests**
 
 ---
 
